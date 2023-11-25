@@ -3,7 +3,7 @@
 @section('title', 'Homepage')
 
 @section('content')
-    <h1>This is a Heading</h1>
+    <h1>This is a Heading on a new branch.</h1>
 
     <p>This is a paragraph.</p>
 

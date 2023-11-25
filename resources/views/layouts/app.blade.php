@@ -10,7 +10,7 @@
 
     <header>
         <nav>
-            <div class="navbar">
+            <div class="navbar">git
                 <a href="{{ route('home') }}">Home</a>
                 <a href="{{ route('about') }}">About</a>
 {{--                <a href="https://youtu.be/dQw4w9WgXcQ?si=FfPysxMb10pM26ID">Services</a>--}}
